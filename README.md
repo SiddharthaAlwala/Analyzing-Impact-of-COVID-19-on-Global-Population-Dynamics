@@ -1,2 +1,1 @@
-# CSCE_5320_Final_project
-Analysing the impact of COVID 19 on global population dynamics.
+Visualized COVID-19's impact on global demographics using Python and Microsoft Power BI. Conducted data cleaning and analysis for accurate insights. Developed interactive dashboards displaying virus spread, recovery, and death trends related to socio-economic factors like GDP and life expectancy, aiding policymakers in response strategies.
